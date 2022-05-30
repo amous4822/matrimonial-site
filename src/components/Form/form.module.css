@@ -1,0 +1,19 @@
+.Form label {
+    padding-bottom: 1vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.Submit {
+    background-color: gray;
+    color: white;
+}
+
+.Form input,textarea {
+    margin-top: 0.7vw;
+    padding: 0.5vw;
+    background: rgb(66, 66, 66);
+}
+.Form textarea {
+    height: 20vw;
+}
